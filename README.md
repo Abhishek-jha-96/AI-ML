@@ -1,6 +1,6 @@
 # AI-ML
 ML projects.
-#branch Master
+# branch Master
 for ML-Django Project 
-#branch main
+# branch main
 for assignment solution
